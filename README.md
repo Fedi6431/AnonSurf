@@ -27,6 +27,8 @@ unrestricted availability and use, and furthering their
 scientific and popular understanding.
 ```
 
+# AnonSurf 4 Windows #
+## What changes from the not forked version?
+This is don't uses the GUI but a CLI.
 ## Please respect their work and do not misuse the tool. ##
 
-## What changes from the not forked version?
